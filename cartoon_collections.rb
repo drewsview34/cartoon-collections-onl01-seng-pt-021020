@@ -4,7 +4,7 @@ end
 
 def summon_captain_planet(array)
   array.map do |string|
-    "#{string.capitalize}"
+    "#{string.capitalize}!"
 end
 
 def long_planeteer_calls# code an argument here
